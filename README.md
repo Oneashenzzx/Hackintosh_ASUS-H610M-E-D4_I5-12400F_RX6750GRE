@@ -87,3 +87,5 @@ BIOS设置
 关闭Secure Boot
 
 无需设置CFG Lock，BIOS中也没有该选项
+
+!( https://github.com/youyou-579/123/blob/master/2.8.jpg?raw=true )
