@@ -96,4 +96,4 @@ BIOS设置
 ![](readme/6.png)
 ![](readme/7.png)
 ![](readme/8.png)
-![](readme/9.png)
+![](readme/9.jpg)
