@@ -1,3 +1,12 @@
+本EFI修改自https://github.com/huzhimaye/Hackintosh_MS-H610ITX_I5-12400F_RX6750GRE
+感谢这位老哥的付出：）
+
+【存在的问题】
+
+1、SATA控制器未驱动，所有SATA协议的存储设备不显示，NVME和使用PCIE转接的存储设备正常
+
+2、随航不正常
+
 配置
 
 主板：华硕PRIME H610M-E D4
@@ -53,3 +62,5 @@ BIOS设置
 关闭Fast Boot
 
 关闭Secure Boot
+
+无需设置CFG Lock，BIOS中也没有该选项
