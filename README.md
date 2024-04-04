@@ -1,3 +1,7 @@
+适用于 12400F + 华硕H610M-E D4 + RX6750GRE 黑苹果EFI引导文件
+
+基于 OpenCore 0.9.5 版本，机型 MacPro 7,1，系统 MacOS 12.3.1
+
 本EFI修改自https://github.com/huzhimaye/Hackintosh_MS-H610ITX_I5-12400F_RX6750GRE
 
 感谢这位老哥的付出：）
@@ -36,15 +40,11 @@
 
 	CPU：英特尔Core i5-12400F
 
-	CPU散热器：乔思伯CR-1400 EVO 标准版（无光）
-
 	内存：海盗船 复仇者 LPX 16GB（2x8GB）DDR4 2400MHz C14 成套内存
 
 	显卡：讯景 AMD RX6750GRE 海外版 12GB
 
 	电源：电源 酷冷至尊V550 额定550W
-
-	机箱：先马 坦克（透彻标准黑装）
 
 	显示器：创维 F27G4Q（K7E面板） 27英寸 2K 170Hz
 
