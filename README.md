@@ -92,12 +92,13 @@ BIOS设置
 关闭Secure Boot
 
 无需设置CFG Lock，BIOS中也没有该选项
-
+<div align=center>
 ![](readme/1.png)
 ![](readme/2.png)
 ![](readme/3.png)
 ![](readme/4.png)
 ![](readme/5.png)
+</div>
 ![](readme/6.png)
 ![](readme/7.png)
 ![](readme/8.png)
