@@ -92,8 +92,9 @@ BIOS设置
 关闭Secure Boot
 
 无需设置CFG Lock，BIOS中也没有该选项
-<div align=center>
-<img src="https://github.com/Oneashenzzx/Hackintosh_ASUS-H610M-E-D4_I5-12400F_RX6750GRE/blob/main/readme/1.png width="180" height="105">
+
+<div style="align: center">
+<img src="https://github.com/Oneashenzzx/Hackintosh_ASUS-H610M-E-D4_I5-12400F_RX6750GRE/blob/main/readme/1.png">
 </div>
 ![](readme/1.png)
 ![](readme/2.png)
