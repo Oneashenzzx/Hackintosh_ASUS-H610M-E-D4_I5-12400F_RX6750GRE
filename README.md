@@ -96,13 +96,7 @@ BIOS设置
 <div style="align: center">
 <img src="https://github.com/Oneashenzzx/Hackintosh_ASUS-H610M-E-D4_I5-12400F_RX6750GRE/blob/main/readme/1.png">
 </div>
-![](readme/1.png)
-![](readme/2.png)
-![](readme/3.png)
-![](readme/4.png)
-![](readme/5.png)
+<div style="align: center">
+<img src="https://github.com/Oneashenzzx/Hackintosh_ASUS-H610M-E-D4_I5-12400F_RX6750GRE/blob/main/readme/2.png">
+</div>
 
-![](readme/6.png)
-![](readme/7.png)
-![](readme/8.png)
-![](readme/9.jpg)
