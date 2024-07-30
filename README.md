@@ -93,8 +93,8 @@ BIOS设置
 
 无需设置CFG Lock，BIOS中也没有该选项
 <div align=center>
-![](readme/1.png)
-	</div>
+<![](readme/1.png)>
+</div>
 ![](readme/2.png)
 ![](readme/3.png)
 ![](readme/4.png)
