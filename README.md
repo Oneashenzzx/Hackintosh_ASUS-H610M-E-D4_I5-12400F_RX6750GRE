@@ -6,7 +6,7 @@
 
 感谢这位老哥的付出：）
 
-！7.30更新，修复了SATA设备不识别的问题
+！7.30更新，修复了SATA设备不识别的问题，已经接近完美了，几个月使用下来没有崩溃报错过。
 使用EFI时，请将Hackintosh_ASUS-H610M-E-D4_I5-12400F_RX6750GRE/EFI/OC/Kexts/CtlnaAHCIPort.kext.rar解压，我嫌上传文件夹麻烦:/
 
 【正常驱动功能】
