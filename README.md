@@ -93,8 +93,9 @@ BIOS设置
 
 无需设置CFG Lock，BIOS中也没有该选项
 <div align=center>
-<![](readme/1.png)>
+<img src="https://github.com/Oneashenzzx/Hackintosh_ASUS-H610M-E-D4_I5-12400F_RX6750GRE/blob/main/readme/1.png width="180" height="105">
 </div>
+![](readme/1.png)
 ![](readme/2.png)
 ![](readme/3.png)
 ![](readme/4.png)
