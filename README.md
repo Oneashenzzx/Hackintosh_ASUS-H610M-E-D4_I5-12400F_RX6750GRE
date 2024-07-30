@@ -6,6 +6,9 @@
 
 感谢这位老哥的付出：）
 
+7.30更新，修复了SATA设备不识别的问题
+使用EFI时，请将Hackintosh_ASUS-H610M-E-D4_I5-12400F_RX6750GRE/EFI/OC/Kexts/CtlnaAHCIPort.kext.rar解压，我嫌上传文件夹麻烦
+
 【正常驱动功能】
 
 	声卡
@@ -21,8 +24,6 @@
 	CPU睿频
 
 【异常驱动功能】
-
-	SATA控制器未驱动，所有SATA协议的存储设备不显示，NVME和使用PCIE转接的存储设备正常
 
 	由于没有安装独立网卡，蓝牙、隔空投送、接力可用性未知
 
@@ -55,14 +56,18 @@
 	凯侠RC20 2TB
  
 	梵想S500PRO 2TB
+
+NVME硬盘盒USB3.1Gen1：
+
+	凯侠SD10 2TB
  
-固态硬盘（SATA协议，未能驱动）：
+固态硬盘（SATA协议）：
 
 	梵想FP325T 2TB
  
 	镁光M600 1TB
  
-机械硬盘（未能驱动）：
+机械硬盘：
 
 	希捷 酷鹰 ST6000VX001 6TB
  
