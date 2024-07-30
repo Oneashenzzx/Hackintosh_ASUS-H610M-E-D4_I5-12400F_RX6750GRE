@@ -6,8 +6,8 @@
 
 感谢这位老哥的付出：）
 
-7.30更新，修复了SATA设备不识别的问题
-使用EFI时，请将Hackintosh_ASUS-H610M-E-D4_I5-12400F_RX6750GRE/EFI/OC/Kexts/CtlnaAHCIPort.kext.rar解压，我嫌上传文件夹麻烦
+！7.30更新，修复了SATA设备不识别的问题
+使用EFI时，请将Hackintosh_ASUS-H610M-E-D4_I5-12400F_RX6750GRE/EFI/OC/Kexts/CtlnaAHCIPort.kext.rar解压，我嫌上传文件夹麻烦:/
 
 【正常驱动功能】
 
@@ -105,26 +105,26 @@ BIOS设置
 <img src="https://github.com/Oneashenzzx/Hackintosh_ASUS-H610M-E-D4_I5-12400F_RX6750GRE/blob/main/readme/3.png">
 </div>
 
-<div style="align: center">
+<div align=center>
 <img src="https://github.com/Oneashenzzx/Hackintosh_ASUS-H610M-E-D4_I5-12400F_RX6750GRE/blob/main/readme/4.png">
 </div>
 
-<div style="align: center">
+<div align=center>
 <img src="https://github.com/Oneashenzzx/Hackintosh_ASUS-H610M-E-D4_I5-12400F_RX6750GRE/blob/main/readme/5.png">
 </div>
 
-<div style="align: center">
+<div align=center>
 <img src="https://github.com/Oneashenzzx/Hackintosh_ASUS-H610M-E-D4_I5-12400F_RX6750GRE/blob/main/readme/6.png">
 </div>
 
-<div style="align: center">
+<div align=center>
 <img src="https://github.com/Oneashenzzx/Hackintosh_ASUS-H610M-E-D4_I5-12400F_RX6750GRE/blob/main/readme/7.png">
 </div>
 
-<div style="align: center">
+<div align=center>
 <img src="https://github.com/Oneashenzzx/Hackintosh_ASUS-H610M-E-D4_I5-12400F_RX6750GRE/blob/main/readme/8.png">
 </div>
 
-<div style="align: center">
+<div align=center>
 <img src="https://github.com/Oneashenzzx/Hackintosh_ASUS-H610M-E-D4_I5-12400F_RX6750GRE/blob/main/readme/9.png">
 </div>
